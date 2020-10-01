@@ -1,5 +1,5 @@
-import one from './one'
+import worldline from './worldline'
 
 export default {
-    one
+  worldline
 }

@@ -1,4 +1,5 @@
+const BASE_URL = process.env.VUE_APP_API_BASE_URL
+
 export default {
-    api_isconte: 'http://api.isconte.com',
-    k_isconte: 'http://k.isconte.com',
+  api: `${BASE_URL}`,
 }
